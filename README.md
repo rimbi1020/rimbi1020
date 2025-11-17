@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 i'm software engineer with over 3 years of experience <br>writing applications for mobile devices and desktop <br>
+🔭 i'm software engineer with over 3 years of experience <br>  writing applications for mobile devices and desktop <br>
 
 
 ## 🌐 Socials:
