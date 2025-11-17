@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter app<br>🌱 I’m currently learning dart<br>
+🔭 i'm software engineer with over 3 years of experience writing applications for mobile devices and desktop <br>🌱 I’m currently learning dart<br>
 
 
 ## 🌐 Socials:
