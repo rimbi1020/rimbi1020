@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devid</h1>
-<h3 align="center">🔭 i'm software engineer with over 3 years of experience writing applications for mobile devices and desktop</h3>
+<h3 align="center">Discord - _kittykat1</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimbi1020&label=Profile%20views&color=0e75b6&style=flat" alt="rimbi1020" /> </p>
 
